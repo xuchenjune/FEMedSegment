@@ -6,15 +6,12 @@ Chen Xu, Qiming Huang, Yuqi Hou, Jiangxing Wu, Fan zhang, Hyung Jin Chang, Jianb
 
 This work has been accepted by ACCV 2024 Conference. 🚀
 
-<a href='https://github.com/xuchenjune/FEMedSegment'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<a href='https://github.com/xuchenjune/FEMedSegment'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='#'><img src='https://img.shields.io/badge/ArXiv-2304.09148-red' /></a> 
 ## 
 
 <img src='./img/architecture.jpg'>
 
 Medical image segmentation poses challenges due to domain gaps, data modality variations and dependency on domain knowledge or experts, especially for low- and middle-income countries (LMICs). Whereas for humans, given a few exemplars (with corresponding labels), we are able to segment different medical images even without extensive domain-specific clinical training. In this paper, we investigate this capability gap and provide a solution to bridge the gap. Specifically, with access to only a few (e.g. less than 5) exemplars, we propose a domain-aware selective adaptation approach to adapt the general knowledge learned from a large model trained with natural images, to the corresponding medical domains/modalities, similar to how humans do. In contrast to prior approaches that either fine-tune pre-trained models with the whole medical dataset in a fully-supervised manner, we only need supervision from a few exemplars, and do not need to fine-tune the full model. Our approach addresses the performance gap between natural and medical image segmentation in an efficient and LMICs-friendly manner. Extensive experimental analysis showcases the effectiveness of our approach, offering potential advancements in healthcare diagnostics and clinical applications in LMICs.
-
-Paper Link:
-<a href='#'><img src='https://img.shields.io/badge/ArXiv-2304.09148-red' /></a> 
 
 
 <img src='./img/experiments.jpg'>
