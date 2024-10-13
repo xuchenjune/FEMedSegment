@@ -6,7 +6,7 @@ Chen Xu, Qiming Huang, Yuqi Hou, Jiangxing Wu, Fan zhang, Hyung Jin Chang, Jianb
 
 This work has been accepted by ACCV 2024 Conference. 🚀
 
-<a href='https://github.com/xuchenjune/FEMedSegment'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='#'><img src='https://img.shields.io/badge/ArXiv-2304.09148-red' /></a> 
+<a href='https://xuchenjune.github.io/FEMed'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='#'><img src='https://img.shields.io/badge/ArXiv-2304.09148-red' /></a> 
 ## 
 
 <img src='./img/architecture.jpg'>
@@ -72,6 +72,6 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ## Acknowledgements
-Part of the code is derived from Explicit Visual Prompt by Weihuang Liu, [Xi Shen](https://xishen0220.github.io/), [Chi-Man Pun](https://www.cis.um.edu.mo/~cmpun/), and [Xiaodong Cun](https://vinthony.github.io/) by University of Macau and Tencent AI Lab. We would like to express our gratitude for their contribution. <a href='https://nifangbaage.github.io/Explicit-Visual-Prompt/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+Part of the code is derived from Explicit Visual Prompt by Weihuang Liu, [Xi Shen](https://xishen0220.github.io/), [Chi-Man Pun](https://www.cis.um.edu.mo/~cmpun/), and [Xiaodong Cun](https://vinthony.github.io/) by University of Macau and Tencent AI Lab. We would like to express our gratitude for their contribution.
 
 
