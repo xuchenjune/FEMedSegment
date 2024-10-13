@@ -65,7 +65,13 @@ python ./Codes/FEMedSegment/test.py --dataset BraTS2021 --epochs 5 --seed 2024 -
 If you find our work useful in your research, please consider citing:
 
 ```
-
+@InProceedings{FEMed_2024_ACCV,
+    author    = {Chen Xu, Qiming Huang, Yuqi Hou, Jiangxing Wu, Fan zhang, Hyung Jin Chang, Jianbo Jiao},
+    title     = {Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2024}
+}
 ```
 
 ## Acknowledgements
