@@ -6,7 +6,7 @@ Chen Xu, Qiming Huang, Yuqi Hou, Jiangxing Wu, Fan zhang, Hyung Jin Chang, Jianb
 
 This work has been accepted by ACCV 2024 Conference. 🚀
 
-<a href='https://xuchenjune.github.io/FEMed'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='#'><img src='https://img.shields.io/badge/ArXiv-2304.09148-red' /></a> 
+<a href='https://xuchenjune.github.io/FEMed'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2410.09254'><img src='https://img.shields.io/badge/ArXiv-2304.09148-red' /></a> 
 ## 
 
 <img src='./img/architecture.jpg'>
